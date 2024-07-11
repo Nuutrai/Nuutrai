@@ -1,4 +1,4 @@
 ## Nuutrai
 
-Learning ReactJS & Java
-Skript Developer
+- Learning ReactJS & Java
+- Skript Developer
